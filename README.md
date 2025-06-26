@@ -7,7 +7,7 @@ This project is a web crawler built with Python that extracts product data (Pric
 - Asynchronous web crawling using [Crawl4AI](https://pypi.org/project/Crawl4AI/)
 - Data extraction powered by a language model (LLM)
 - CSV export of extracted venue information
-- Modular and easy-to-follow code structure ideal for beginners
+- Modular and easy-to-follow code structure
 
 ## Project Structure
 
